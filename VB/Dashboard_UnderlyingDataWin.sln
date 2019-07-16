@@ -1,4 +1,4 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
+﻿Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Dashboard_UnderlyingDataWin", "Dashboard_UnderlyingDataWin\Dashboard_UnderlyingDataWin.vbproj", "{FE78070B-9425-4EFC-AD84-AB99E8C17E90}"
 EndProject
