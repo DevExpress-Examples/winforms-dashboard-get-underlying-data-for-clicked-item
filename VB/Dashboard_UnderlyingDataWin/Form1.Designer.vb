@@ -30,13 +30,13 @@
 			' 
 			' dashboardViewer1
 			' 
-			Me.dashboardViewer1.Appearance.BackColor = System.Drawing.Color.FromArgb((CInt((CByte(242)))), (CInt((CByte(242)))), (CInt((CByte(242)))))
+			Me.dashboardViewer1.Appearance.BackColor = System.Drawing.Color.FromArgb((CInt((CByte(160)))), (CInt((CByte(160)))), (CInt((CByte(160)))))
 			Me.dashboardViewer1.Appearance.Options.UseBackColor = True
 			Me.dashboardViewer1.DashboardSource = "Dashboard_UnderlyingDataWin.SalesDashboard"
 			Me.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill
 			Me.dashboardViewer1.Location = New System.Drawing.Point(0, 0)
 			Me.dashboardViewer1.Name = "dashboardViewer1"
-			Me.dashboardViewer1.Size = New System.Drawing.Size(806, 474)
+			Me.dashboardViewer1.Size = New System.Drawing.Size(804, 472)
 			Me.dashboardViewer1.TabIndex = 0
 'INSTANT VB NOTE: The following InitializeComponent event wireup was converted to a 'Handles' clause:
 'ORIGINAL LINE: this.dashboardViewer1.DashboardItemDoubleClick += new DevExpress.DashboardWin.DashboardItemMouseActionEventHandler(this.dashboardViewer1_DashboardItemDoubleClick);
@@ -45,7 +45,7 @@
 			' 
 			Me.AutoScaleDimensions = New System.Drawing.SizeF(6F, 13F)
 			Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-			Me.ClientSize = New System.Drawing.Size(806, 474)
+			Me.ClientSize = New System.Drawing.Size(804, 472)
 			Me.Controls.Add(Me.dashboardViewer1)
 			Me.Name = "Form1"
 			Me.Text = "Dashboard Viewer"

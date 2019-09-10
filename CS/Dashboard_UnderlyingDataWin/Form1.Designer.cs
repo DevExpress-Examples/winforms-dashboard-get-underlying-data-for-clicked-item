@@ -30,13 +30,13 @@
             // 
             // dashboardViewer1
             // 
-            this.dashboardViewer1.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.dashboardViewer1.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(160)))), ((int)(((byte)(160)))), ((int)(((byte)(160)))));
             this.dashboardViewer1.Appearance.Options.UseBackColor = true;
             this.dashboardViewer1.DashboardSource = "Dashboard_UnderlyingDataWin.SalesDashboard";
             this.dashboardViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dashboardViewer1.Location = new System.Drawing.Point(0, 0);
             this.dashboardViewer1.Name = "dashboardViewer1";
-            this.dashboardViewer1.Size = new System.Drawing.Size(806, 474);
+            this.dashboardViewer1.Size = new System.Drawing.Size(804, 472);
             this.dashboardViewer1.TabIndex = 0;
             this.dashboardViewer1.DashboardItemDoubleClick += new DevExpress.DashboardWin.DashboardItemMouseActionEventHandler(this.dashboardViewer1_DashboardItemDoubleClick);
             // 
@@ -44,7 +44,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(806, 474);
+            this.ClientSize = new System.Drawing.Size(804, 472);
             this.Controls.Add(this.dashboardViewer1);
             this.Name = "Form1";
             this.Text = "Dashboard Viewer";
