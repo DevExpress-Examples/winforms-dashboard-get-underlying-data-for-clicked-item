@@ -20,4 +20,4 @@ The example handles the [DashboardItem.DoubleClick](https://docs.devexpress.com/
 
 ## More Examples
 
-- [Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data][https://github.com/DevExpress-Examples/how-to-obtain-a-dashboard-items-client-data-in-the-winforms-viewer-t140553]
+- [Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data](https://github.com/DevExpress-Examples/how-to-obtain-a-dashboard-items-client-data-in-the-winforms-viewer-t140553)
