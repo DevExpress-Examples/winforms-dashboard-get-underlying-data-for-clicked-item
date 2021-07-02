@@ -18,7 +18,7 @@ The example handles the [DashboardItem.DoubleClick](https://docs.devexpress.com/
 
 - [Obtain Underlying and Displayed Data](https://docs.devexpress.com/Dashboard/17269/winforms-dashboard/winforms-viewer/obtaining-underlying-and-displayed-data)
 - [Data Inspector](https://docs.devexpress.com/Dashboard/401194/common-features/underlying-and-displayed-data/data-inspector)
-- 
+
 ## More Examples
 
 - [Dashboard for WinForms - How to Get and Process the Dashboard Item's Underlying Data](https://github.com/DevExpress-Examples/how-to-obtain-a-dashboard-items-client-data-in-the-winforms-viewer-t140553)
